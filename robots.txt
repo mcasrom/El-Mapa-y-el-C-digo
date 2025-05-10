@@ -1,7 +1,3 @@
 User-agent: *
 Allow: /
-<<<<<<< HEAD
 Sitemap: https://mcasrom.github.io/El-Mapa-y-el-C-digo//sitemap.xml
-=======
-Sitemap: https://tusitio.com/sitemap.xml
->>>>>>> f03fc7481386234d49c905775dfd50cd57ee5c4a

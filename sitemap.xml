@@ -1,127 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-<<<<<<< HEAD
     <loc>https://mcasrom.github.io/El-Mapa-y-el-C-digo//posts/2025-05-07-an-lisis-multidimensional-de-la-polarizaci-n-sociedad-espa-ola-2025-.html</loc>
-=======
-    <loc>https://tusitio.com/posts/2025-05-07-an-lisis-multidimensional-de-la-polarizaci-n-sociedad-espa-ola-2025-.html</loc>
-    <lastmod>2025-05-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tusitio.com/posts/2025-05-07-ejemplo-post.html</loc>
-    <lastmod>2025-05-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tusitio.com/posts/2025-05-07-new-post.html</loc>
-    <lastmod>2025-05-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tusitio.com/posts/2025-05-07-nuevo-post.html</loc>
-    <lastmod>2025-05-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tusitio.com/posts/2025-05-07-plantuml.html</loc>
-    <lastmod>2025-05-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tusitio.com/posts/2025-05-07-strategic-syntax-with-emacs.html</loc>
-    <lastmod>2025-05-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tusitio.com/posts/2025-05-07-testtesttest.html</loc>
-    <lastmod>2025-05-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tusitio.com/about.html</loc>
-    <lastmod>2025-05-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tusitio.com/contact.html</loc>
-    <lastmod>2025-05-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tusitio.com/ejemplo.html</loc>
->>>>>>> f03fc7481386234d49c905775dfd50cd57ee5c4a
     <lastmod>2025-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-<<<<<<< HEAD
+    <loc>https://mcasrom.github.io/El-Mapa-y-el-C-digo//posts/2025-05-07-ejemplo-post.html</loc>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mcasrom.github.io/El-Mapa-y-el-C-digo//posts/2025-05-07-new-post.html</loc>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mcasrom.github.io/El-Mapa-y-el-C-digo//posts/2025-05-07-nuevo-post.html</loc>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mcasrom.github.io/El-Mapa-y-el-C-digo//posts/2025-05-07-plantuml.html</loc>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://mcasrom.github.io/El-Mapa-y-el-C-digo//posts/2025-05-07-strategic-syntax-with-emacs.html</loc>
-=======
-    <loc>https://tusitio.com/index.html</loc>
->>>>>>> f03fc7481386234d49c905775dfd50cd57ee5c4a
     <lastmod>2025-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-<<<<<<< HEAD
+    <loc>https://mcasrom.github.io/El-Mapa-y-el-C-digo//posts/2025-05-07-testtesttest.html</loc>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://mcasrom.github.io/El-Mapa-y-el-C-digo//about.html</loc>
-=======
-    <loc>https://tusitio.com/init.html</loc>
-    <lastmod>2025-05-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tusitio.com/interferencias-rusas-y-americanas-en-procesos-electorales-un-an-lisis-geopol-tico.html</loc>
->>>>>>> f03fc7481386234d49c905775dfd50cd57ee5c4a
     <lastmod>2025-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-<<<<<<< HEAD
     <loc>https://mcasrom.github.io/El-Mapa-y-el-C-digo//contact.html</loc>
-=======
-    <loc>https://tusitio.com/polarizacin-sesgos-y-motivos-en-los-principales-chats-con-ia.html</loc>
->>>>>>> f03fc7481386234d49c905775dfd50cd57ee5c4a
     <lastmod>2025-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-<<<<<<< HEAD
+    <loc>https://mcasrom.github.io/El-Mapa-y-el-C-digo//ejemplo.html</loc>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://mcasrom.github.io/El-Mapa-y-el-C-digo//index.html</loc>
-=======
-    <loc>https://tusitio.com/sitemap.html</loc>
->>>>>>> f03fc7481386234d49c905775dfd50cd57ee5c4a
     <lastmod>2025-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-<<<<<<< HEAD
     <loc>https://mcasrom.github.io/El-Mapa-y-el-C-digo//init.html</loc>
-=======
-    <loc>https://tusitio.com/stats.html</loc>
->>>>>>> f03fc7481386234d49c905775dfd50cd57ee5c4a
     <lastmod>2025-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-<<<<<<< HEAD
+    <loc>https://mcasrom.github.io/El-Mapa-y-el-C-digo//interferencias-rusas-y-americanas-en-procesos-electorales-un-an-lisis-geopol-tico.html</loc>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mcasrom.github.io/El-Mapa-y-el-C-digo//polarizacin-sesgos-y-motivos-en-los-principales-chats-con-ia.html</loc>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://mcasrom.github.io/El-Mapa-y-el-C-digo//sitemap.html</loc>
     <lastmod>2025-05-10</lastmod>
     <changefreq>monthly</changefreq>
@@ -135,9 +98,6 @@
   </url>
   <url>
     <loc>https://mcasrom.github.io/El-Mapa-y-el-C-digo//ultimo.html</loc>
-=======
-    <loc>https://tusitio.com/ultimo.html</loc>
->>>>>>> f03fc7481386234d49c905775dfd50cd57ee5c4a
     <lastmod>2025-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
