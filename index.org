@@ -49,5 +49,5 @@ Gracias por visitar. ¡Espero que encuentres algo inspirador!
 #+HTML: </div>
 #+HTML: <hr />
 #+HTML: <div class="post-footer">
-Publicado el 7 de mayo de 2025 · Por M.Castillo · [[file:index.org][Inicio]]
+Publicado el 7 de mayo de 2025 · Por M.Castillo
 #+HTML: </div>
