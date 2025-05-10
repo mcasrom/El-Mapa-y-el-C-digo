@@ -1,0 +1,125 @@
+/* General Reset */
+body, h1, h2, h3, p, ul, ol, li, figure, figcaption, blockquote, dl, dd {
+  margin: 0;
+  padding: 0;
+}
+body {
+  line-height: 1.6;
+  font-family: 'Inter', sans-serif;
+  background-color: #f7f9fc;
+  color: #333;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  color: #0078d4;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Header */
+header.blog-header {
+  background: #0078d4;
+  color: #fff;
+  padding: 20px 10px;
+  text-align: center;
+}
+header.blog-header .blog-title {
+  font-size: 2.5em;
+  margin-bottom: 5px;
+}
+header.blog-header .blog-subtitle {
+  font-size: 1.2em;
+  font-weight: 300;
+}
+
+/* Navigation */
+nav.blog-nav {
+  margin-top: 15px;
+}
+.blog-nav .menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+.blog-nav .menu li {
+  display: inline-block;
+}
+.blog-nav .menu li a {
+  color: #ffffff;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+.blog-nav .menu li a:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Main Content Styling */
+main {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 10px 15px;
+  background: #ffffff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+main h1, main h2, main h3 {
+  margin: 20px 0 10px;
+}
+main p {
+  margin-bottom: 15px;
+  line-height: 1.8;
+}
+main img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+/* Footer */
+footer.blog-footer {
+  color: #ffffff;
+  background-color: #0078d4;
+  padding: 20px 10px;
+  text-align: center;
+  margin-top: 30px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+footer.blog-footer p {
+  margin: 5px 0;
+  font-size: 0.9em;
+}
+footer.blog-footer .share-buttons a {
+  display: inline-block;
+  margin: 5px;
+  padding: 5px 10px;
+  background: #ffffff;
+  color: #0078d4;
+  border-radius: 5px;
+  font-size: 0.9em;
+  font-weight: bold;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+footer.blog-footer .share-buttons a:hover {
+  background: #005ea6;
+  color: #ffffff;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .blog-nav .menu {
+    flex-direction: column;
+    gap: 10px;
+  }
+  header.blog-header .blog-title {
+    font-size: 2em;
+  }
+  header.blog-header .blog-subtitle {
+    font-size: 1em;
+  }
+}
