@@ -6,7 +6,7 @@
 #+HTML: <div class="header">
 #+HTML: <h1 class="header-title">El Mapa y el Código: Geopolítica, Ciberseguridad e IA</h1>
 #+HTML: <h2 class="header-subtitle">Donde la inteligencia estratégica se escribe en Emacs y se publica en Org en Linux.</h2>
-#+HTML: <a href="mailto:contacto@mcasrom.com" class="header-email">contacto@mcasrom.com</a>
+#+HTML: <a href="mailto:mybloggingnotes@gmail.com" class="header-email">mybloggingnotes@gmail.com</a>
 #+HTML: </div>
 #+HTML: <hr />
 #+HTML: <div class="post-content">
@@ -47,5 +47,5 @@ Gracias por visitar. ¡Espero que encuentres algo inspirador!
 #+HTML: </div>
 #+HTML: <hr />
 #+HTML: <div class="post-footer">
-Publicado el {{{date}}} · Por M.Castillo · [[file:index.org][Inicio]]
+Publicado el {{{date}}} · Por M.Castillo.
 #+HTML: </div>
