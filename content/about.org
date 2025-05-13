@@ -1,12 +1,10 @@
-#+TITLE: Acerca de El Mapa y el Código
-#+DATE: 2025-05-12
-#+AUTHOR: M.Castillo
-#+DESCRIPTION: Información sobre el blog y su autor.
+#+TITLE: Sobre mí
+#+DATE: [2025-05-03]
+#+OPTIONS: toc:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/css/style.css"/>
 
-* Acerca de
+Hola, soy Mike, creador de este blog. Me apasiona Emacs, la tecnología libre, los drones y las aventuras al aire libre.
 
-El Mapa y el Código es un blog dedicado a explorar la intersección entre geopolítica, ciberseguridad e inteligencia artificial. Escrito por M.Castillo, utiliza herramientas de código abierto como Emacs y Org Mode para generar contenido estratégico.
+Este sitio es mi espacio personal para compartir ideas, configuraciones y proyectos. Si quieres saber más sobre cómo uso Emacs para gestionar mi blog y otros flujos de trabajo, ¡sigue leyendo los posts!
 
-** Sobre el Autor
-
-M.Castillo es un analista y entusiasta del software libre, con interés en la geoestrategia, la ciberseguridad y el análisis de datos automatizado.
+Puedes contactarme desde la [[file:contact.org][sección de contacto]].

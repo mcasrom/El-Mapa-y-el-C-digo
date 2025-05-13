@@ -1,12 +1,13 @@
 #+TITLE: Contacto
-#+DATE: 2025-05-12
-#+AUTHOR: M.Castillo
-#+DESCRIPTION: Información de contacto para El Mapa y el Código.
+#+DATE: [2025-05-03]
+#+OPTIONS: toc:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/css/style.css"/>
 
-* Contacto
+Puedes escribirme por cualquiera de estos medios:
 
-Para consultas, sugerencias o colaboraciones, contáctame en:
+- Email: [[mailto:mike@example.com][mike@example.com]]
+- Telegram: [@mikeblog](https://t.me/mikeblog)
+- GitHub: [[https://github.com/mike][https://github.com/mike]]
+- YouTube: [[https://youtube.com/@MikeSkyDrones][@MikeSkyDrones]]
 
-- **Email**: [[mailto:contacto@elmapayelcodigo.com][contacto@elmapayelcodigo.com]]
-- **GitHub**: [[https://github.com/mike][mike]]
-- **RSS**: [[rss.xml][Suscríbete al RSS]]
+También puedes dejar comentarios en el blog o responder directamente a mis publicaciones en redes.
