@@ -1,22 +1,20 @@
-#+TITLE: Últimos Posts
-#+DATE: 2025-05-13
-#+AUTHOR: M.Castillo
-#+DESCRIPTION: Lista de las publicaciones más recientes del blog.
+#+OPTIONS: toc:nil num:nil html-postamble:nil
 
-* Últimos Posts
+#+HTML: <ul class="recent-posts">
 
-** [[file:posts/2025-05-12-new-test.org][New Test]] (2025-05-12)
-TEST on TEST
-- Etiquetas: test, emacs
+#+HTML: <li>
+<a href="posts/2025-05-07-ejemplo-post.html">Ejemplo de Post: Introducción al Blogging</a>
+<span class="post-date">· 2025-05-07</span>
+</li>
 
-** [[file:posts/2025-05-11-la-ambig-edad-estrategica-concepto-evolucion-e-implicaciones.org][La Ambigüedad Estratégica: Concepto, Evolución e Implicaciones]] (2025-05-11)
-La ambigüedad estratégica representa una herramienta fundamental en la diplomacia internacional
-- Etiquetas: ambiguedad, estrategia, geoestrategia, emacs, opinión
+#+HTML: <li>
+<a href="posts/2025-05-01-seguridad-digital.html">Seguridad Digital para el Siglo XXI</a>
+<span class="post-date">· 2025-05-01</span>
+</li>
 
-** [[file:posts/2025-05-07-strategic-syntax-with-emacs.org][Strategic Syntax with Emacs]] (2025-05-07)
-Welcome to Strategic Syntax with Emacs - Explore Emacs, Org Mode, and digital security.
-- Etiquetas: emacs, org-mode, blog, opiniones
+#+HTML: <li>
+<a href="posts/2025-04-20-ia-y-narrativas.html">IA y la Batalla por el Relato</a>
+<span class="post-date">· 2025-04-20</span>
+</li>
 
-** [[file:posts/2025-05-07-an-lisis-multidimensional-de-la-polarizaci-n-sociedad-espa-ola-2025-.org][Análisis Multidimensional de la Polarización Sociedad Española (2025)]] (2025-05-07)
-Análisis Multidimensional de la Polarización y Posición de la Sociedad Española (2025) con IA
-- Etiquetas: sociedad, polarización, política, posición, opinión
+#+HTML: </ul>
