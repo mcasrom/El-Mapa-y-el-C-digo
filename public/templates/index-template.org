@@ -1,0 +1,51 @@
+#+TITLE: El Mapa y el Código: Geopolítica, Ciberseguridad e IA
+#+SUBTITLE: Donde la inteligencia estratégica se escribe en Emacs y se publica en Org en Linux.
+#+DATE: {{{date}}}
+#+AUTHOR: M.Castillo
+#+OPTIONS: toc:nil num:nil html-postamble:nil
+#+HTML: <div class="header">
+#+HTML: <h1 class="header-title">El Mapa y el Código: Geopolítica, Ciberseguridad e IA</h1>
+#+HTML: <h2 class="header-subtitle">Donde la inteligencia estratégica se escribe en Emacs y se publica en Org en Linux.</h2>
+#+HTML: <a href="mailto:mybloggingnotes@gmail.com" class="header-email">mybloggingnotes@gmail.com</a>
+#+HTML: </div>
+#+HTML: <hr />
+#+HTML: <div class="post-content">
+
+* Bienvenido a El Mapa y el Código
+
+Este blog nace de una convicción: el conocimiento estratégico no solo se dibuja en mapas, sino también en líneas de código.
+
+Explora los últimos posts en el [[file:sitemap.org][Mapa del Sitio]] o comienza con el artículo destacado abajo.
+
+** Artículo destacado
+- [[file:posts/2025-05-07-ejemplo-post.org][Ejemplo de Post: Introducción al Blogging]]
+
+Aquí se cruzan la geopolítica de las grandes potencias, los ciberconflictos silenciosos, la ingeniería del poder y el análisis automatizado con herramientas libres como *Emacs*, *Org Mode*, *Linux* e *IA* aplicada.
+
+Todo el contenido se genera en un entorno sin corporaciones, libre de vigilancia, impulsado por código abierto.
+
+* 📌 Áreas clave de análisis
+
+- /Geoestrategia y poder multipolar/
+- /Ciberseguridad ofensiva y defensiva/
+- /Análisis político automatizado con IA/
+- /Sistemas de vigilancia y privacidad/
+- /Flujos de información y manipulación narrativa/
+
+* 📰 Últimas publicaciones
+
+{{{recent-posts}}}
+
+[[file:ultimo.org][Últimos Posts]]
+
+* 📬 Suscripción y contacto
+
+Para recibir los artículos nuevos, sígueme en [[https://github.com/mike][GitHub]] o suscríbete al RSS: [[rss.xml]]
+
+Gracias por visitar. ¡Espero que encuentres algo inspirador!
+
+#+HTML: </div>
+#+HTML: <hr />
+#+HTML: <div class="post-footer">
+Publicado el {{{date}}} · Por M.Castillo.
+#+HTML: </div>
