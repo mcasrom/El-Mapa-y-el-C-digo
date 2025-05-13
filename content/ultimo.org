@@ -1,0 +1,22 @@
+#+TITLE: Últimos Posts
+#+DATE: 2025-05-13
+#+AUTHOR: M.Castillo
+#+DESCRIPTION: Lista de las publicaciones más recientes del blog.
+
+* Últimos Posts
+
+** [[file:posts/2025-05-12-new-test.org][New Test]] (2025-05-12)
+TEST on TEST
+- Etiquetas: test, emacs
+
+** [[file:posts/2025-05-11-la-ambig-edad-estrategica-concepto-evolucion-e-implicaciones.org][La Ambigüedad Estratégica: Concepto, Evolución e Implicaciones]] (2025-05-11)
+La ambigüedad estratégica representa una herramienta fundamental en la diplomacia internacional
+- Etiquetas: ambiguedad, estrategia, geoestrategia, emacs, opinión
+
+** [[file:posts/2025-05-07-strategic-syntax-with-emacs.org][Strategic Syntax with Emacs]] (2025-05-07)
+Welcome to Strategic Syntax with Emacs - Explore Emacs, Org Mode, and digital security.
+- Etiquetas: emacs, org-mode, blog, opiniones
+
+** [[file:posts/2025-05-07-an-lisis-multidimensional-de-la-polarizaci-n-sociedad-espa-ola-2025-.org][Análisis Multidimensional de la Polarización Sociedad Española (2025)]] (2025-05-07)
+Análisis Multidimensional de la Polarización y Posición de la Sociedad Española (2025) con IA
+- Etiquetas: sociedad, polarización, política, posición, opinión

@@ -1,0 +1,78 @@
+#+TITLE: Estadísticas del Blog
+#+DATE: 2025-05-12
+#+AUTHOR: M.Castillo
+#+DESCRIPTION: Estadísticas detalladas del blog, incluyendo análisis de contenido y métricas.
+
+* Estadísticas del Blog
+
+** Resumen General
+- *Total de posts:* 4
+- *Total de palabras:* 4733
+- *Tiempo promedio de lectura:* 5.5 minutos
+- *Última actualización:* 2025-05-12
+
+** Actividad de Publicación
+- *Último post:* New Test (2025-05-12)
+
+*** Posts por Mes
+- *2025-05:* 4 posts
+** Análisis de Contenido
+- *Promedio de palabras por post:* 1183 palabras
+- *Post más largo:* La Ambigüedad Estratégica: Concepto, Evolución e Implicaciones (3580 palabras, ~17 minutos de lectura)
+
+** Análisis de Etiquetas
+- *Total de etiquetas únicas:* 13
+
+*** Etiquetas más populares
+- *opinión:* 2 posts
+- *emacs:* 2 posts
+- *posición:* 1 posts
+- *política:* 1 posts
+- *polarización:* 1 posts
+- *sociedad:* 1 posts
+- *opiniones:* 1 posts
+- *blog:* 1 posts
+- *org-mode:* 1 posts
+- *geoestrategia:* 1 posts
+
+** Lista de Posts
+*** [[file:posts/2025-05-12-new-test.org][New Test]] (2025-05-12)
+
+*** [[file:posts/2025-05-11-la-ambig-edad-estrategica-concepto-evolucion-e-implicaciones.org][La Ambigüedad Estratégica: Concepto, Evolución e Implicaciones]] (2025-05-11)
+
+*** [[file:posts/2025-05-07-strategic-syntax-with-emacs.org][Strategic Syntax with Emacs]] (2025-05-07)
+
+*** [[file:posts/2025-05-07-an-lisis-multidimensional-de-la-polarizaci-n-sociedad-espa-ola-2025-.org][Análisis Multidimensional de la Polarización Sociedad Española (2025)]] (2025-05-07)
+
+** Gráfico de Estadísticas
+#+BEGIN_SRC org
+#+PLOT: title:"Posts por Etiqueta" ind:1 deps:(3) type:bar with:histograms
+| Etiqueta | Cantidad |
+|---------+----------|
+| opinión | 2 |
+| emacs | 2 |
+| posición | 1 |
+| política | 1 |
+| polarización | 1 |
+| sociedad | 1 |
+| opiniones | 1 |
+| blog | 1 |
+| org-mode | 1 |
+| geoestrategia | 1 |
+#+END_SRC
+
+** Análisis de Rendimiento
+Para análisis de rendimiento y estadísticas de visitas, considera integrar Google Analytics u otra herramienta de análisis web.
+
+* Notas Técnicas
+Estas estadísticas son generadas automáticamente mediante Emacs Lisp desde los archivos fuente del blog.
+Última generación: 2025-05-12 11:06:19
+
+#+BEGIN_SRC emacs-lisp :exports none
+;; Esta sección contiene metadatos para análisis interno, no se exporta.
+(setq blog-stats-data '(
+  :total-posts 4
+  :total-words 4733
+  :total-tags 13
+))
+#+END_SRC

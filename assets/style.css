@@ -1,77 +1,33 @@
-/* General styles */
 body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
 }
-
-/* Header with logo */
-.header-with-logo {
-  display: flex;
-  align-items: center;
-  margin-bottom: 20px;
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
 }
-
-.blog-logo {
-  max-width: 100px;
-  margin-right: 20px;
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
-
-.header-text h1 {
-  margin: 0;
-  font-size: 2em;
+h1, h2, h3 {
+    color: #333;
 }
-
-.header-text .subtitle {
-  margin: 0;
-  font-size: 1.2em;
-  color: #555;
+a {
+    color: #007acc;
+    text-decoration: none;
 }
-
-.header-text .email {
-  margin: 10px 0 0;
-  font-size: 1em;
-}
-
-/* Navigation */
-.blog-nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  justify-content: center;
-}
-
-.blog-nav li {
-  margin: 0 15px;
-}
-
-.blog-nav a {
-  text-decoration: none;
-  color: #007bff;
-  font-weight: bold;
-}
-
-.blog-nav a:hover {
-  text-decoration: underline;
-}
-
-/* Horizontal lines */
-hr {
-  border: 0;
-  border-top: 1px solid #ccc;
-  margin: 10px 0;
-}
-
-/* Content */
-.description {
-  font-style: italic;
-  color: #666;
-}
-
-/* Ensure main content doesn't repeat title */
-main#content {
-  margin-top: 20px;
+a:hover {
+    text-decoration: underline;
 }

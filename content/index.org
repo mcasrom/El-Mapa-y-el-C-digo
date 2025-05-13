@@ -1,0 +1,41 @@
+#+DATE: 2025-05-13
+#+AUTHOR: M.Castillo
+#+OPTIONS: toc:nil num:nil html-postamble:nil title:nil author:nil
+
+Bienvenido a El Mapa y el Código
+
+Este blog nace de una convicción: el conocimiento estratégico no solo se dibuja en mapas, sino también en líneas de código.
+
+Explora los últimos posts en el [[file:sitemap.org][Mapa del Sitio]].
+
+Aquí se cruzan la geopolítica de las grandes potencias, los ciberconflictos silenciosos, la ingeniería del poder y el análisis automatizado con herramientas libres como *Emacs*, *Org Mode*, *Linux* e *IA* aplicada.
+
+Todo el contenido se genera en un entorno sin corporaciones, libre de vigilancia, impulsado por código abierto.
+
+* Áreas clave de análisis
+
+- /Geoestrategia y poder multipolar/
+- /Ciberseguridad ofensiva y defensiva/
+- /Análisis político automatizado con IA/
+- /Sistemas de vigilancia y privacidad/
+- /Flujos de información y manipulación narrativa/
+
+* Últimas publicaciones
+
+** [[file:posts/2025-05-12-new-test.org][New Test]] (2025-05-12)
+TEST on TEST
+
+** [[file:posts/2025-05-11-la-ambig-edad-estrategica-concepto-evolucion-e-implicaciones.org][La Ambigüedad Estratégica: Concepto, Evolución e Implicaciones]] (2025-05-11)
+La ambigüedad estratégica representa una herramienta fundamental en la diplomacia internacional
+
+** [[file:posts/2025-05-07-strategic-syntax-with-emacs.org][Strategic Syntax with Emacs]] (2025-05-07)
+Welcome to Strategic Syntax with Emacs - Explore Emacs, Org Mode, and digital security.
+
+
+[[file:ultimo.org][Últimos Posts]]
+
+* Suscripción y contacto
+
+Para recibir los artículos nuevos, sígueme en [[https://github.com/mike][GitHub]] o suscríbete al RSS: [[rss.xml]]
+
+Gracias por visitar. ¡Espero que encuentres algo inspirador!

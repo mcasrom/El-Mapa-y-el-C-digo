@@ -1,0 +1,12 @@
+#+TITLE: Acerca de El Mapa y el Código
+#+DATE: 2025-05-12
+#+AUTHOR: M.Castillo
+#+DESCRIPTION: Información sobre el blog y su autor.
+
+* Acerca de
+
+El Mapa y el Código es un blog dedicado a explorar la intersección entre geopolítica, ciberseguridad e inteligencia artificial. Escrito por M.Castillo, utiliza herramientas de código abierto como Emacs y Org Mode para generar contenido estratégico.
+
+** Sobre el Autor
+
+M.Castillo es un analista y entusiasta del software libre, con interés en la geoestrategia, la ciberseguridad y el análisis de datos automatizado.

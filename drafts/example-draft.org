@@ -1,0 +1,4 @@
+#+TITLE: Example Post
+#+DATE: 2025-05-06
+
+Este es un post de ejemplo.

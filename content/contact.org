@@ -1,0 +1,12 @@
+#+TITLE: Contacto
+#+DATE: 2025-05-12
+#+AUTHOR: M.Castillo
+#+DESCRIPTION: Información de contacto para El Mapa y el Código.
+
+* Contacto
+
+Para consultas, sugerencias o colaboraciones, contáctame en:
+
+- **Email**: [[mailto:contacto@elmapayelcodigo.com][contacto@elmapayelcodigo.com]]
+- **GitHub**: [[https://github.com/mike][mike]]
+- **RSS**: [[rss.xml][Suscríbete al RSS]]
