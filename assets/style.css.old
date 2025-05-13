@@ -1,0 +1,236 @@
+/* Estilos principales para Sintaxis Estratégica con Emacs */
+
+/* Variables para colores y fuentes */
+:root {
+  --main-bg-color: #f8f9fa;
+  --header-bg-color: #2e3440;
+  --primary-color: #5e81ac;
+  --secondary-color: #81a1c1;
+  --accent-color: #88c0d0;
+  --text-color: #333;
+  --light-text: #eceff4;
+  --border-color: #d8dee9;
+  --code-bg: #e5e9f0;
+  --quote-bg: #f0f4f8;
+  --font-main: 'Nunito', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  --font-heading: 'Montserrat', 'Arial', sans-serif;
+  --font-code: 'JetBrains Mono', 'Fira Code', monospace;
+}
+
+/* Estilos generales */
+body {
+  font-family: var(--font-main);
+  line-height: 1.6;
+  color: var(--text-color);
+  background-color: var(--main-bg-color);
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Encabezado del blog */
+.blog-header {
+  background-color: var(--header-bg-color);
+  color: var(--light-text);
+  text-align: center;
+  padding: 40px 20px;
+  margin-bottom: 30px;
+  border-bottom: 5px solid var(--accent-color);
+}
+
+.blog-title {
+  font-family: var(--font-heading);
+  font-size: 2.5rem;
+  margin: 0;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  color: #fff;
+}
+
+.blog-subtitle {
+  font-family: var(--font-heading);
+  font-size: 1.2rem;
+  margin: 10px 0 0 0;
+  font-weight: 400;
+  color: var(--accent-color);
+  letter-spacing: 0.5px;
+}
+
+/* Advertencia de borrador */
+.draft-warning {
+  display: inline-block;
+  background-color: #bf616a;
+  color: white;
+  padding: 5px 15px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  margin-top: 15px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+/* Encabezados */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  color: var(--primary-color);
+}
+
+h1 {
+  font-size: 2rem;
+  border-bottom: 2px solid var(--border-color);
+  padding-bottom: 0.3em;
+}
+
+h2 {
+  font-size: 1.75rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+}
+
+/* Enlaces */
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--secondary-color);
+  text-decoration: underline;
+}
+
+/* Código */
+code {
+  font-family: var(--font-code);
+  background-color: var(--code-bg);
+  padding: 2px 4px;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+pre {
+  background-color: var(--code-bg);
+  padding: 15px;
+  border-radius: 5px;
+  overflow-x: auto;
+  border-left: 4px solid var(--accent-color);
+}
+
+pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+/* Citas */
+blockquote {
+  border-left: 4px solid var(--accent-color);
+  margin: 1.5em 0;
+  padding: 0.5em 1em;
+  background-color: var(--quote-bg);
+  font-style: italic;
+}
+
+/* Listas */
+ul, ol {
+  padding-left: 2em;
+  margin: 1em 0;
+}
+
+/* Tablas */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+}
+
+table, th, td {
+  border: 1px solid var(--border-color);
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #f0f4f8;
+}
+
+/* Imágenes */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Pie de página */
+.author, .date, .creator {
+  font-size: 0.9rem;
+  color: #666;
+  margin: 5px 0;
+}
+
+.creator a {
+  color: var(--secondary-color);
+}
+
+/* Etiquetas */
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
+
+.tag {
+  background-color: var(--accent-color);
+  color: white;
+  border-radius: 15px;
+  padding: 3px 10px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  font-size: 0.8rem;
+  text-decoration: none;
+}
+
+.tag:hover {
+  background-color: var(--primary-color);
+  text-decoration: none;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .blog-title {
+    font-size: 2rem;
+  }
+  
+  .blog-subtitle {
+    font-size: 1rem;
+  }
+  
+  h1 {
+    font-size: 1.75rem;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+  }
+}
+
+/* Tema específico para el emoji del título */
+.blog-title:first-letter {
+  color: var(--accent-color);
+}

@@ -1,0 +1,14 @@
+#+TITLE: Inicio Técnico
+#+DATE: 2025-05-13
+#+AUTHOR: M.Castillo
+#+DESCRIPTION: Guía técnica para configurar un blog con Emacs y Org Mode.
+
+* Inicio Técnico
+
+Esta página describe cómo configurar un blog utilizando Emacs, Org Mode y org-publish. El código fuente está disponible en el repositorio de GitHub.
+
+** Requisitos
+
+- Emacs 27.1 o superior
+- Org Mode
+- ImageMagick (opcional, para optimización de imágenes)
